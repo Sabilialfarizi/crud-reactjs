@@ -1,0 +1,12 @@
+{
+    "users": [{
+        "id": 1,
+        "nama": "Sabili",
+        "alamat": "Jakarta",
+        "umur": 20,
+        "nohp": "081723131123"
+
+
+    }]
+
+}
